@@ -1,0 +1,6 @@
+{
+	"ip":"rabbit01234.aternos.me",
+	"port": "25565",
+	"name": "serverBot",
+	"auto-night-skip":"false"
+}
